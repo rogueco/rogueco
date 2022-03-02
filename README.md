@@ -16,7 +16,7 @@
 
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img style="max-width:48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" style="max-width:48px"/> </a>
+    <!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img style="max-width:48px" src="https://commons.wikimedia.org/wiki/File:Microsoft_.NET_logo.png" style="max-width:48px"/> </a> -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
