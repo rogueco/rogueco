@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Microservice Concepts & Dapr.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tomfletcher.tech)**
+<!-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tomfletcher.tech)** -->
 
 - 📫 How to reach me **tom@tomfletcher.tech**
 
